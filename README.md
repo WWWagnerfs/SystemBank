@@ -122,7 +122,7 @@ Transação (Transaction)
 
 ## 🛡️ Validações Implementadas
 
-✅ CPF válido (formato brasileiro)
+✅ CPF válido
 
 ✅ Email válido
 
